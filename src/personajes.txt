@@ -1,0 +1,7 @@
+3 orco 5 3
+19 elfo 3 10
+4 enano 6 2
+9 elfo 5 5
+8 elfo 2 9
+15 enano 3 3
+17 elfo 1 1
