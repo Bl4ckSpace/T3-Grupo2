@@ -2,9 +2,6 @@ package t3grupo2;
 
 public class Personaje {
     private int idPersonaje;
-
-
-
     private String tipoPersonaje;
     private int nivelFuerza;
     private int nVidas;
